@@ -1,14 +1,14 @@
 <div class="brand clearfix">
-	<a href=" #" style="font-size: 20px; padding-top:50%; padding-left:8px; color:#fff">Food Donation Management System </a>
-	<span class="menu-btn"><i class="fa fa-bars"></i></span>
+	<a href=" #" style="font-size: 30px; margin-top:50px; padding-left:30%">Food Donation Management System </a>
+	<span class=" menu-btn"><i class="fa fa-bars"></i></span>
 	<ul class="ts-profile-nav">
 
 		<li class="ts-account">
-			<a href="#"><img src="img/ts-avatar.jpg" class="ts-avatar hidden-side" alt=""> Admin<i class="fa fa-angle-down hidden-side"></i>
+			<a href="#" style="color:#ffff"><img src="img/ts-avatar.jpg" class="ts-avatar hidden-side" alt=""> Admin<i class=" fa fa-angle-down hidden-side"></i>
 			</a>
 			<ul>
-				<li><a href="change-password.php">Change Password</a></li>
-				<li><a href="logout.php">Logout</a></li>
+				<li><a href="change-password.php" style="color:#ffff">Change Password</a></li>
+				<li><a href="logout.php" style="color:#ffff">Logout</a></li>
 			</ul>
 		</li>
 	</ul>
